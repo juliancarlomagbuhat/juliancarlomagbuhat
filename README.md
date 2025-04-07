@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Julian Carlo Magbuhat
 - 👀 I’m interested in learning computer science
 - 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on game development and researchs
+- 💞️ I’m looking to collaborate on researchs and anything I'll be interested.
 - 📫 How to reach me: 24-01351@g.batstate-u.edu.ph 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to think
